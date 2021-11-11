@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">2-epoxy</string>
+    <string name="banner_text">banner_foo</string>
+    <string name="movie_text">movie_foo</string>
+    <string name="movie_title">New Movies</string>
+    <string name="list_title">Titles</string>
+    <string name="list_image">image</string>
+    <string name="description">TextView</string>
+</resources>
